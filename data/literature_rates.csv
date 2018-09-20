@@ -1,0 +1,69 @@
+studyTex,study,organism,environment,waterSource,fragment,temperature,pH,rate,period,halfLife
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,5,4,0.13,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,20,4,0.17,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,35,4,0.15,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,5,7,0.12,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,20,7,0.12,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,35,7,0.13,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,5,10,0.05,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,20,10,0.12,days,NA
+\citet{Strickler2015},Strickler et al. (2015),Bullfrog,Freshwater,Tap,84,35,10,0.15,days,NA
+\citet{Barnes2014},Barnes et al. (2014),Common carp,Freshwater,Well,146,25,7.5,0.105,hours,NA
+\citet{Maruyama2014},Maruyama et al. (2014),Bluegill sunfish,Freshwater,Tap,100,20,NA,0.104,hours,NA
+\citet{Thomsen2012},Thomsen et al. (2012),European Flounder,Marine,Local inshore,104,15,NA,0.322,days,NA
+\citet{Thomsen2012},Thomsen et al. (2012),Five-spined stickleback,Marine,Local inshore,101,15,NA,0.701,days,NA
+\citet{Pilliod2014},Pilliod et al. (2014),Idaho giant salamander,Freshwater,Spring,84,11--25,NA,1.89,days,NA
+\citet{Pilliod2014},Pilliod et al. (2014),Idaho giant salamander,Freshwater,Spring,84,13--20,NA,1.64,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Eutrophic lake,149,5,NA,0.35,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Eutrophic lake,149,15,NA,1.87,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Eutrophic lake,149,25,NA,2.42,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Eutrophic lake,149,35,NA,2.39,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Well,149,15,NA,0.83,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Dystrophic lake,149,15,NA,0.66,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Eutrophic lake,149,15,NA,1.69,days,NA
+\citet{Eichmiller2016},Eichmiller et al. (2016),Common carp,Freshwater,Oligotrophic lake,149,15,NA,2.34,days,NA
+\citet{Tsuji2017},Tsuji et al. (2017),Ayu sweetfish,Freshwater,River,131,10,7.5,NA,NA,19.55
+\citet{Tsuji2017},Tsuji et al. (2017),Ayu sweetfish,Freshwater,River,131,20,7.5,NA,NA,4.89
+\citet{Tsuji2017},Tsuji et al. (2017),Ayu sweetfish,Freshwater,River,131,30,7.5,NA,NA,2.8
+\citet{Tsuji2017},Tsuji et al. (2017),Common carp,Freshwater,River,78,10,7.5,NA,NA,20.5
+\citet{Tsuji2017},Tsuji et al. (2017),Common carp,Freshwater,River,78,20,7.5,NA,NA,4.9
+\citet{Tsuji2017},Tsuji et al. (2017),Common carp,Freshwater,River,78,30,7.5,NA,NA,2.8
+\citet{Sansom2017},Sansom & Sassoubre (2017),Freshwater mussel,Freshwater,Tap,147,22,NA,0.039,hours,NA
+\citet{Sansom2017},Sansom & Sassoubre (2017),Freshwater mussel,Freshwater,Tap,147,22,NA,0.038,hours,NA
+\citet{Sansom2017},Sansom & Sassoubre (2017),Freshwater mussel,Freshwater,Tap,147,22,,0.0097,hours,NA
+\citet{Sansom2017},Sansom & Sassoubre (2017),Freshwater mussel,Freshwater,Tap,147,22,,0.053,hours,NA
+\citet{Sansom2017},Sansom & Sassoubre (2017),Freshwater mussel,Freshwater,Tap,147,22,,0.024,hours,NA
+\citet{Sansom2017},Sansom & Sassoubre (2017),Freshwater mussel,Freshwater,Creek,147,22,,0.029,hours,NA
+\citet{Sassoubre2016},Sassoubre et al. (2016),Northern anchovy,Marine,Local inshore,133,22,NA,0.101,hours,NA
+\citet{Sassoubre2016},Sassoubre et al. (2016),Pacific sardine,Marine,Local inshore,107,19,NA,0.068,hours,NA
+\citet{Sassoubre2016},Sassoubre et al. (2016),Pacific chub mackerel,Marine,Local inshore,107,19,NA,0.07,hours,NA
+\citet{Seymour2018},Seymour et al. (2018),Multi-species (fish/inverts),Freshwater,Stream,100--132,16,5.3--5.8,0.982,hours,NA
+\citet{Seymour2018},Seymour et al. (2018),Multi-species (fish/inverts),Freshwater,Stream,100--132,14,5.3--5.8,0.946,hours,NA
+\citet{Seymour2018},Seymour et al. (2018),Multi-species (fish/inverts),Freshwater,Stream,100--132,15,6.8--7.2,0.674,hours,NA
+\citet{Seymour2018},Seymour et al. (2018),Multi-species (fish/inverts),Freshwater,Stream,100--132,15,6.8--7.2,0.602,hours,NA
+\citet{Andruszkiewicz2017},Andruszkiewicz et al. (2017),Pacific chub mackerel,Marine,Local inshore,107,17,NA,0.039,hours,NA
+\citet{Andruszkiewicz2017},Andruszkiewicz et al. (2017),Pacific chub mackerel,Marine,Local inshore,107,17,NA,0.038,hours,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,20,6.5,0.17,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,20,7,0.23,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,20,7.5,0.23,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,20,8,0.27,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,4,NA,0.071,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,12,NA,0.083,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,20,NA,0.21,days,NA
+\citet{Lance2017},Lance et al. (2017),Bighead carp,Freshwater,Deionised,190,30,NA,0.39,days,NA
+\citet{Minamoto2017},Minamoto et al. (2017),Japanese sea nettle,Marine,Local inshore,151,17--20,NA,0.0329,hours,NA
+\citet{Jo2016},Jo et al. (2016),Japanese jack mackerel,Marine,Local inshore,127,NA,NA,0.044,hours,NA
+\citet{Jo2016},Jo et al. (2016),Japanese jack mackerel,Marine,Local inshore,719,NA,NA,0.09,hours,NA
+This study,This study,Shanny,Marine,Offshore,132,15,8.6,NA,NA,45.6
+This study,This study,Shanny,Marine,Offshore,132,10,8.1,NA,NA,38.9
+This study,This study,Shanny,Marine,Inshore,132,15,8.5,NA,NA,27.4
+This study,This study,Shanny,Marine,Inshore,132,10,8,NA,NA,24.8
+This study,This study,Common shore crab,Marine,Offshore,153,15,8.6,NA,NA,35.8
+This study,This study,Common shore crab,Marine,Offshore,153,10,8.1,NA,NA,31.6
+This study,This study,Common shore crab,Marine,Harbour,153,15,8.5,NA,NA,23.5
+This study,This study,Common shore crab,Marine,Harbour,153,10,8,NA,NA,21.6
+\citet{Cowart2017},Cowart et al. (2017),Antarctic icefish,Marine,Local inshore,70,-1,NA,0.234,days,NA
+\citet{Weltz2017},Weltz et al. (2017),Maugean skate,Marine,Local inshore,331,4,NA,0.02,hours,NA
+\citet{Weltz2017},Weltz et al. (2017),Maugean skate,Marine,Local inshore,331,4,NA,0.011,hours,NA
+\citet{Sigsgaard2016},Sigsgaard et al. (2016),Whale shark,Marine,Local inshore,105,29--43,NA,0.89,days,NA
+\citet{Sigsgaard2016},Sigsgaard et al. (2016),Whale shark,Marine,Local inshore,105,29--40,NA,1,days,NA
